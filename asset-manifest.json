@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/Ejercicio-sesion-10-11-12/static/css/main.fb188e95.css",
-    "main.js": "/Ejercicio-sesion-10-11-12/static/js/main.f530dd78.js",
+    "main.js": "/Ejercicio-sesion-10-11-12/static/js/main.05722978.js",
     "static/js/787.a9c1725e.chunk.js": "/Ejercicio-sesion-10-11-12/static/js/787.a9c1725e.chunk.js",
-    "static/media/logo.svg": "/Ejercicio-sesion-10-11-12/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Ejercicio-sesion-10-11-12/index.html",
     "main.fb188e95.css.map": "/Ejercicio-sesion-10-11-12/static/css/main.fb188e95.css.map",
-    "main.f530dd78.js.map": "/Ejercicio-sesion-10-11-12/static/js/main.f530dd78.js.map",
+    "main.05722978.js.map": "/Ejercicio-sesion-10-11-12/static/js/main.05722978.js.map",
     "787.a9c1725e.chunk.js.map": "/Ejercicio-sesion-10-11-12/static/js/787.a9c1725e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb188e95.css",
-    "static/js/main.f530dd78.js"
+    "static/js/main.05722978.js"
   ]
 }
