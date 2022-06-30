@@ -1,0 +1,9 @@
+#rectangle{
+    text-align: center;
+    width: 255px;
+    height: 255px;
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
